@@ -1,6 +1,5 @@
 name: MyWordPress
-description: |
-  # Rancher Demo
+description: Rancher Demo
 version: # Version of the Catalog to be used
 category: # Category to be used for searching catalog entries
 maintainer: Sunil Enadle

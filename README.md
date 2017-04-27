@@ -1,2 +1,0 @@
-# MyWordPress
-Rancher Catalog
