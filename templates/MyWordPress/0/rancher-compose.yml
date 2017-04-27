@@ -1,6 +1,10 @@
-version: '2'
-services:
-  wordpress:
-    scale: 2
-  mysql:
-    scale: 1
+.catalog:
+  name: MyWordPress
+  version: 1.0
+  description: Rancher Demo By Sunil
+  uuid: sme12
+  minimum_rancher_version: # The minimum version of Rancher that supports the template
+wordpress:
+  scale: 2
+mysql:
+  scale: 1
